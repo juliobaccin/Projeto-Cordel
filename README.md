@@ -1,4 +1,4 @@
-# Projeto-Cordel
+# Projeto-Cordel - Site Responsivo
 Projeto do Cordel de <a target="_blank" rel="external" href="https://www.recantodasletras.com.br/poesias/3186743"><strong>Milton Duarte</strong></a>
 
  Desenvolvido por <a target="_blank" rel="external" href="https://github.com/juliobaccin/"><strong>Julio Cesar Baccin</strong></a> usando a plataforma de estudo do <a target="_blank" rel="external" href="https://www.cursoemvideo.com/"><strong>Curso em Video</strong></a>
