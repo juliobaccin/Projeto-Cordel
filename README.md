@@ -1,8 +1,12 @@
 <h1 align="center">Projeto Cordel - Site Responsivo</h1>
 
-<p align="center">Projeto do Cordel de <a target="_blank" rel="external" href="https://www.recantodasletras.com.br/poesias/3186743"><strong>Milton Duarte</strong></a></p>
+<p align="center">
+ Projeto do Cordel de <a target="_blank" rel="external" href="https://www.recantodasletras.com.br/poesias/3186743"><strong>Milton Duarte</strong></a>
+</p>
 
- <p align="center">Desenvolvido por <a target="_blank" rel="external" href="https://github.com/juliobaccin/"><strong>Julio Cesar Baccin</strong></a> usando a plataforma de estudo do <a target="_blank" rel="external" href="https://www.cursoemvideo.com/"><strong>Curso em Video</strong></a><p>
+ <p align="center">
+ Desenvolvido por <a target="_blank" rel="external" href="https://github.com/juliobaccin/"><strong>Julio Cesar Baccin</strong></a> usando a plataforma de estudo do <a target="_blank" rel="external" href="https://www.cursoemvideo.com/"><strong>Curso em Video</strong></a>
+<p>
 
 <p align="center">https://juliobaccin.github.io/Projeto-Cordel/<p>
 
