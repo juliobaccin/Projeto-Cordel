@@ -17,5 +17,9 @@
     Apresentação do Site
   </h3> 
 <img src="https://github.com/juliobaccin/Projeto-Cordel/blob/main/imagens/apresenta%C3%A7%C3%A3o%20site.gif">
+   <h3>
+    Responsividade
+  </h3> 
+<img src="https://github.com/juliobaccin/Projeto-Cordel/blob/main/imagens/responsividade.gif">
 </div>
  
