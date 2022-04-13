@@ -11,7 +11,8 @@
 <p align="center">
  você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-Cordel">aqui</a>
 </p>
+ 
+![Apresentação do site](https://github.com/juliobaccin/Projeto-Cordel/blob/main/apresenta%C3%A7%C3%A3o%20site.gif)
+ 
 
-<div align="center">
-<img width="415px" height="415px" src="https://github.com/juliobaccin/Projeto-Cordel/blob/main/apresenta%C3%A7%C3%A3o%20site.gif"><img align="rigth" width="415px" height="415px" src="https://user-images.githubusercontent.com/101740786/159775856-0a774a67-a233-4ba2-b801-e16556ee3784.png">
-</div>
+ 
