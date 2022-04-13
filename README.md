@@ -12,7 +12,7 @@
  você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-Cordel">aqui</a>
 </p>
  
-![Apresentação do site](https://github.com/juliobaccin/Projeto-Cordel/blob/main/apresenta%C3%A7%C3%A3o%20site.gif)
+![Apresentação do site](https://github.com/juliobaccin/Projeto-Cordel/blob/main/imagens/apresenta%C3%A7%C3%A3o%20site.gif)
  
 
  
