@@ -1,7 +1,7 @@
-<h1 align="center">Projeto Cordel - Site Responsivo com efeito Parallax</h1>
+<h1 align="center">Projeto - Cordel </h1>
 
 <p align="center">
- Projeto do Cordel de <a target="_blank" rel="external" href="https://www.recantodasletras.com.br/poesias/3186743"><strong>Milton Duarte</strong></a>
+ Projeto que apresenta o Cordel de <a target="_blank" rel="external" href="https://www.recantodasletras.com.br/poesias/3186743"><strong>Milton Duarte</strong></a>
 </p>
 
 <p align="center">
